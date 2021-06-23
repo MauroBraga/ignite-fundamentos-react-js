@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "@babel/preset-react": "^7.12.13",
-    "html-webpack-plugin": "^5.3.1",
+    "html-webpack-plugin": "^5.3.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
